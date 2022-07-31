@@ -1,7 +1,7 @@
 from discordwebhook import Discord
 import time
 
-username = input("Please eneter your discord username: ")
+username = input("Please enter your discord username: ")
 
 while True:
     time.sleep(86400) #time is in seconds so for 24 hours it would be 86400 seconds
